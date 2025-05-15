@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Buzz Brief</string>
+    <string-array name="categories">
+        <item>all</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+</resources>

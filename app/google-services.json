@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559918460210",
+    "project_id": "buzz-brief",
+    "storage_bucket": "buzz-brief.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559918460210:android:c57c8fddc2cb6faa183b2b",
+        "android_client_info": {
+          "package_name": "it.dtech.buzzbrief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCz4WAXRyAMegg03RP8UlgdJ8VWgFeHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

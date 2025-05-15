@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BuzzBrief" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/theme_dark</item>
+    </style>
+
+    <style name="Theme.BuzzBrief" parent="Base.Theme.BuzzBrief" />
+</resources>
